@@ -79,4 +79,4 @@ import { baseUrl } from '../shared/baseUrl';
 
 
 
-export default Menu;
+export default BeerMenu;
