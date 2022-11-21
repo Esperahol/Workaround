@@ -1,0 +1,16 @@
+/* There is a style attribute for this modal type and it has the value of customStyles. 
+Below is an example of how to use it. */
+
+const customStyles = {
+    content : {
+      top                   : '50%',
+      left                  : '50%',
+      right                 : 'auto',
+      bottom                : 'auto',
+      marginRight           : '-50%',
+      transform             : 'translate(-50%, -50%)',
+      backgroundColor       : '#ad8a0c'      
+    }
+};
+
+/*Here is the web address for the documentation. https://reactcommunity.org/react-modal/styles/ */
